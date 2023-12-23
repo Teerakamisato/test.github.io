@@ -1,0 +1,39 @@
+/* CSS Document */
+.wavy-underline {
+	margin-top: 10;
+	text-decoration: pink wavy underline;
+}.p-L{
+    padding-left: 10px;
+}.p-R{
+    padding-right: 10px;
+}.p-T{
+    padding-top: 10px;
+}.p-D{
+    padding-bottom: 10px;
+}
+.wavy-underline {
+    margin-top: 10;
+    text-decoration: pink wavy underline;
+}.bg-1{
+    background-color: #CCCCCC;
+}.bg-2{
+    background-color: #87CEEB;
+}.bg-3{
+    background-color: #fa78be;
+}.bg-4{
+    background-color: #faf2c5;
+}.bg-5{
+	background-color: #2C3E50;
+}.bg-6{
+	background-color: #2C3E50;
+}
+body{
+    background-color: #87CEEB;
+}
+.text-color1{
+    color: #FFFFFF;
+}.text-color2{
+    color: #000080;
+}
+
+
